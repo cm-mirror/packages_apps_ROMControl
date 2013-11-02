@@ -379,6 +379,8 @@
     <string name="toggle_enable_fasttoggle_summary">Overrides default behavior</string>
     <string name="toggle_choose_fasttoggle_side_title">Choose fast toggle side</string>
     <string name="toggle_choose_fasttoggle_side_summary">Select the side that triggers the fast toggle</string>
+    <string name="swipe_to_switch_title">Swipe to switch</string>
+    <string name="swipe_to_switch_summary">Swipe to switch between notifications and Quick Settings</string>
     <string name="toggle_dialog_arrange_title">Toggle setup</string>
     <string name="toggle_dialog_add_toggles">Select toggles to add</string>
     <string name="toggle_style_tile">Tiles</string>
@@ -496,6 +498,10 @@
     <string name="alt_signal_summary">Use alternate Gingerbread style signal cluster</string>
     <string name="show_4g_for_lte_title">Use 4G icon on LTE</string>
     <string name="show_4g_for_lte_summary">Show 4G network indicator icon instead of LTE icon</string>
+    <string name="status_bar_network_title">Network traffic</string>
+    <string name="status_bar_show_network_stats_title">Show network speeds</string>
+    <string name="status_bar_network_stats_update_title">Update frequency</string>
+    <string name="status_bar_network_stats_color_title">Network speeds text color</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -811,6 +817,8 @@
     <string name="lockscreen_wallpaper_remove">Remove lockscreen background</string>
     <string name="lockscreen_text_color_title">Lockscreen text color</string>
     <string name="lockscreen_text_color_summary">Set the lockscreen text color</string>
+    <string name="lockscreen_color_title">Lockscreen theme color</string>
+    <string name="lockscreen_color_summary">Set the color of many elements of the lockscreen</string>
     <string name="lockscreen_weather_title">Enable</string>
     <string name="lockscreen_weather_summary">Show Weather Information on Lockscreen. You need to enable ROMControl\'s
         Weather service to use this
@@ -1274,5 +1282,9 @@
     <string name="hardware_keys_action_search">Search assistant</string>
     <string name="hardware_keys_action_voice_search">Voice search</string>
     <string name="hardware_keys_action_in_app_search">In-app search</string>
+
+    <!-- Fast Charge -->
+    <string name="fast_charge_not_supported_title">Fast Charge not supported</string>
+    <string name="fast_charge_not_supported">Fast Charge is not supported by the current kernel.</string>
 
 </resources>
